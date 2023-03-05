@@ -1,6 +1,6 @@
 /*
     *****************
-    DONE BY:-   Ashutosh kumar
+    DONE BY:-   ASHUTOSH KUMAR
     
     *****************
 */
@@ -46,7 +46,7 @@ function Bubble()
 
 /*
     *****************
-    DONE BY:-  Ashutosh kumar
+    DONE BY:-  ASHUTOSH KUMAR
     
     *****************
 */
