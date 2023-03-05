@@ -1,6 +1,6 @@
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
+    DONE BY:-  ASHUTOSH KUMAR
     
     *****************
 */
@@ -99,7 +99,7 @@ function heap_sort()
 
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
+    DONE BY:-   ASHUTOSH KUMAR
     
     *****************
 */
