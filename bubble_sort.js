@@ -1,6 +1,6 @@
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
+    DONE BY:-   TAshutosh kumar
     
     *****************
 */
@@ -46,7 +46,7 @@ function Bubble()
 
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
+    DONE BY:-  Ashutosh kumar
     
     *****************
 */
